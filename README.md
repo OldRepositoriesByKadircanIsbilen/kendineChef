@@ -1,5 +1,7 @@
 # kendineChef
 # Firebase, Ionic 5, Angular App
+# Kadircan İşbilen 150202077
+
 Proje Firebase, Ionic 5 ve Angular kullanılarak oluşturulmuştur. Sign in, Sign up, Reset Password ve Logout işlemleri yapılmıştır.
 
 Program, Visual Studio Code üzerinden terminale yazılan "ionic serve" komutu ile çalışmaya başlar.
